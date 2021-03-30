@@ -1,16 +1,6 @@
-# eventsf
+# Flutter 2 WEB & APP
 
-A new Flutter application.
+카카오 우편 서비스를 적용해보며 웹과 앱을 한번에 빌드하는 내용 및
+Dart:js, Dart:HTML 의 대한 부분을 익히실 수 있습니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* 카카오 우편 서비스 : https://postcode.map.daum.net/guide
